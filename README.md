@@ -11,7 +11,7 @@ I'm a fourth-year Computer Science student at the University of Calgary, with a 
 - 👔 I've previously worked as a developer at General Dynanamics and Black Diamond Group. I've also conducted HCI research at the University Calgary, where one of my publications was accepted and presented at the 2022 Conference on Human Factors in Computing Systems (CHI)
   - See Augmenting On-Body Touch Input with Tactile Feedback Through Fingernail Haptics, [Read the paper](https://dl.acm.org/doi/10.1145/3544548.3581473)
 
-- 📚 Currently dabbling in learning React, C++ and planning tackle Golang in the future.
+- 📚 Currently dabbling in learning React, C++ and planning on tackling Golang in the future.
 
 - ⭐ I love snowboarding, I play TFT, and figuring how to make VBA macros in a warehouse convinced me to change careers.
 
