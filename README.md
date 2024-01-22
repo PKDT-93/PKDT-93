@@ -1,6 +1,6 @@
 # Hi there, I'm Peter Tran! 👋 Welcome to my profile
 
-I'm a fourth-year Computer Science student at the University of Calgary, with a previous background in Supply Chain Management. I found my true passions to be in technology, particularly in human-computer interactions & software engineering, where I can dream and build up my ideas, see how the tools I make can make an impact to everyone. My particular interests are in web development, UX&D, and game design. 
+I'm a fourth-year Computer Science student at the University of Calgary, with a previous background in Supply Chain Management. I found my true passions to be in technology, particularly in human-computer interactions & software engineering, where I can dream and build my ideas, and see how the tools I make can make an impact to everyone. My particular interests are in web development, UX&D, and game design. 
 
 <hr/>
 
