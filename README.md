@@ -15,7 +15,14 @@ I'm a fourth-year Computer Science student at the University of Calgary, with a 
 
 - ⭐ I love snowboarding, I play TFT, and making VBA macros convinced me to change careers.
 
-- 🚀 Currently seeking summer opportunities in Software Development. 
+- 🚧 Current Projects:
+  - Valorant Agent Selector: (https://github.com/PKDT-93/Valorant-Agent-Selector)
+  - Meme Pho Restaurant Landing Page: (https://github.com/PKDT-93/Pho-Restaurant-Landing-Page)
+  - Mario Kart Pi (https://github.com/PKDT-93/MarioKart)
+  - Currently working on a react application
+
+- 🚀 Currently seeking summer opportunities in Software Development.
+
   
 ## 🌐 Connect with Me
 
