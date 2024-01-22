@@ -13,7 +13,7 @@ I'm a fourth-year Computer Science student at the University of Calgary, with a 
 
 - 📚 Currently dabbling in learning React, C++ and planning tackle Golang in the future.
 
-- ⭐ I love snowboarding, I play TFT, and making VBA macros convinced me to change careers.
+- ⭐ I love snowboarding, I play TFT, and making VBA macros in a warehouse convinced me to change careers.
 
 - 🚧 Current Projects:
   - Valorant Agent Selector: (https://github.com/PKDT-93/Valorant-Agent-Selector)
