@@ -17,9 +17,11 @@ I'm a fourth-year Computer Science student at the University of Calgary, with a 
 
 - 🚧 Current Projects:
   - Valorant Agent Selector: (https://github.com/PKDT-93/Valorant-Agent-Selector)
+      - Techologies: Python, OpenCV, PyAutoGUI, Tkinter
   - Meme Pho Restaurant Landing Page: (https://github.com/PKDT-93/Pho-Restaurant-Landing-Page)
-  - Mario Kart Pi (https://github.com/PKDT-93/MarioKart)
+      - Technologies: CSS, HTML
   - Investucation, a financial literacy planner: https://hackathon-u-calgary.vercel.app/ 
+      - Technologies: React, Node.js, Tailwind CSS, JavaScript, HTML, CSS
 
 - 🚀 Currently seeking summer opportunities in Software Development.
 
