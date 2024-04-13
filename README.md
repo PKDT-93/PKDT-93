@@ -7,7 +7,8 @@ I'm a fourth-year Computer Science student at the University of Calgary, with a 
 - 🔭 I have diverse experience in:
   - Python QA test automation (I like Python the most so far)
   - C# & Java development (C# is great, Java is acceptable)
-
+  - C++ development
+  - Fullstack development(React, Node.js, Django)
 - 👔 I've previously worked as a developer at General Dynamics and Black Diamond Group. I've also conducted HCI research at the University Calgary, where I am co-authored on a publication that was accepted and presented at the prestigious 2023 Conference on Human Factors in Computing Systems (CHI)
    - See Augmenting On-Body Touch Input with Tactile Feedback Through Fingernail Haptics, [Read the paper](https://dl.acm.org/doi/10.1145/3544548.3581473)
 
