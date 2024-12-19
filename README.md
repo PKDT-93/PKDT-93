@@ -17,6 +17,8 @@ I'm a fourth-year Computer Science student at the University of Calgary, with a 
 - ⭐ I love snowboarding, I play TFT, and figuring how to make VBA macros in a warehouse convinced me to change careers.
 
 - 🚧 Current Projects:
+  - TagIt: A Mobile Deal Sharing & Product Review Platform: (https://github.com/hsp8412/TagIt):
+      - Techologies: iOS (SwiftUI, CoreLocation, A VFoundation), Python, Firebase, Algolia Search
   - Valorant Agent Selector: (https://github.com/PKDT-93/Valorant-Agent-Selector)
       - Techologies: Python, OpenCV, PyAutoGUI, Tkinter
   - Meme Pho Restaurant Landing Page: (https://github.com/PKDT-93/Pho-Restaurant-Landing-Page)
