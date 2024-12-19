@@ -8,7 +8,8 @@ I'm a fourth-year Computer Science student at the University of Calgary, with a 
   - Python QA test automation (I like Python the most so far)
   - C# & Java development (C# is great, Java is acceptable)
   - C++ development
-  - Fullstack development(React, Node.js, Django)
+  - SwiftUI
+  - Fullstack development(MERN, Django, Firebase)
 - 👔 I've previously worked as a developer at General Dynamics and Black Diamond Group. I've also conducted HCI research at the University Calgary, where I am co-authored on a publication that was accepted and presented at the prestigious 2023 Conference on Human Factors in Computing Systems (CHI)
    - See Augmenting On-Body Touch Input with Tactile Feedback Through Fingernail Haptics, [Read the paper](https://dl.acm.org/doi/10.1145/3544548.3581473)
 
@@ -24,7 +25,7 @@ I'm a fourth-year Computer Science student at the University of Calgary, with a 
   - Meme Pho Restaurant Landing Page: (https://github.com/PKDT-93/Pho-Restaurant-Landing-Page)
       - Technologies: CSS, HTML
   - Investucation, a financial literacy planner: https://hackathon-u-calgary.vercel.app/ 
-      - Technologies: React, Node.js, Tailwind CSS, JavaScript, HTML, CSS
+      - Technologies: MERN, Tailwind, JavaScript, HTML, CSS
 
 - 🚀 Currently seeking summer opportunities in Software Development.
 
