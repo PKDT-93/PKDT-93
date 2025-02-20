@@ -26,7 +26,7 @@ I'm a fourth-year Computer Science student at the University of Calgary, with a 
       - Technologies: CSS, HTML
   - Investucation, a financial literacy planner: https://hackathon-u-calgary.vercel.app/ 
       - Technologies: MERN, Tailwind, JavaScript, HTML, CSS
-  - TamoLife, CalgaryHacks 2025 1st Place Winner (https://github.com/hsp8412/TamaLife)
+  - TamaLife, CalgaryHacks 2025 1st Place Winner (https://github.com/hsp8412/TamaLife)
       - Technologies: React Native, MongoDB, Expo, TensorFlow, Keras, Arduino, JWT,
       - https://www.youtube.com/watch?time_continue=5&v=JAJJdVf032E&embeds_referring_euri=https%3A%2F%2Fdevpost.com%2F&source_ve_path=Mjg2NjY
 
